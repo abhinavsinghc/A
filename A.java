@@ -5,7 +5,7 @@ class A
  
 class B extends A
 {
-    int i = 100;
+    int i = 300;
 
  
 
