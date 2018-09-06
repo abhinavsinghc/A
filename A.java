@@ -1,11 +1,11 @@
 class A
 {
-    int i = 30;
+    int i = 100;
 }
  
 class B extends A
 {
-    int i = 50;
+    int i = 100;
 
  
 
