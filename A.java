@@ -1,6 +1,6 @@
 class A
 {
-    int i = 100;
+    int i = 400;
 }
  
 class B extends A
